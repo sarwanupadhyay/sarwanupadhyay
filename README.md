@@ -42,28 +42,9 @@ Lovable · Claude Code · n8n · NumPy · Pandas · Matplotlib · scikit-learn �
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarwanupadhyay&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarwanupadhyay&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📈 GitHub Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarwanupadhyay&theme=tokyo-night&hide_border=true)
-
----
-
-## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sarwanupadhyay&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
 
 ---
 
