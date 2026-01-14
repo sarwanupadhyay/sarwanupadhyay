@@ -46,23 +46,6 @@ Lovable · Claude Code · n8n · NumPy · Pandas · Matplotlib · scikit-learn �
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarwanupadhyay&theme=tokyo-night&hide_border=true)
 
----
-
-## 🧠 Currently Exploring
-- 🤖 AI Automation with **n8n**
-- 🧩 AI-assisted coding with **Claude Code**
-- 📊 Data Science workflows with **Python**
-- ☁️ Deploying AI apps on **Vercel & Netlify**
-
----
-
-## 🎯 Goals
-- ✅ Build scalable AI automation projects  
-- ✅ Strengthen Data Science fundamentals  
-- ✅ Create AI-powered SaaS & tools  
-- ✅ Grow a strong developer & AI presence  
-
----
 
 ⭐ **If you find my projects useful, consider starring my repositories!**
 
